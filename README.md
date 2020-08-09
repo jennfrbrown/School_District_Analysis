@@ -36,7 +36,7 @@ Originally, we ran analysis on all district school data.  Unfortunately, The sch
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
     
     -The Overall rating for Thomas High School changed from 91% to 65% and the school rank dropped from 2nd place to 8th place.
-    
+<img src = "https://github.com/jennfrbrown/School_District_Analysis/blob/master/Images%20for%20ReadMe/Change%20in%20Position.png" >
     
     
 - How does replacing the ninth-grade scores affect the following:
