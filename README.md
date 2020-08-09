@@ -53,7 +53,7 @@ How does replacing the ninth-grade scores affect the following:
 
 - Scores by school type
     - Thomas High School is a charter school  The Average Math and Reading Scores for Chater Schools were unaffected.  However, the Passing Math, Passing Reading, and Overall Passing Percentages decreased.
-<img src = "https://github.com/jennfrbrown/School_District_Analysis/blob/master/Images%20for%20ReadMe/school%20type.png"  
+<img src = "https://github.com/jennfrbrown/School_District_Analysis/blob/master/Images%20for%20ReadMe/school%20type.png"  >
 
 ## Summary: 
 
