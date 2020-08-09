@@ -45,7 +45,9 @@ How does replacing the ninth-grade scores affect the following:
 - Scores by school spending
     -  Thomas High Schools falls into the $630 - $644 spending range per student.  The Average Math and Reading Scores were unaffected.  However, the Passing Math, Passing Reading, and Overall Passing Percentages all decreased.
 <img src = "https://github.com/jennfrbrown/School_District_Analysis/blob/master/Images%20for%20ReadMe/Spending%20Ranges.png">
+
 - Scores by school size
+
     -  Thomas High School falls into the medium size school category.  The Average Math and Reading Scores did not change at all for the Medium Category.  However, the Passing Math, Passing Reading, and Overall Passing Percentages decreased.
 
 - Scores by school type
