@@ -28,9 +28,9 @@ Originally, we ran analysis on all district school data.  Unfortunately, The sch
 
 - How is the school summary affected?
     When excluding the Thomas High School 9th graders data the following were affected:
-        - The average math score dropped  
-        - The passing math and reading percentages decreased
-        - The overall passing percentage decreased
+    - The average math score dropped
+    - The passing math and reading percentages decreased
+    - The overall passing percentage decreased
  <img src = "https://github.com/jennfrbrown/School_District_Analysis/blob/master/Images%20for%20ReadMe/District%20Summary.png"  >  
    
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
