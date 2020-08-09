@@ -49,6 +49,7 @@ How does replacing the ninth-grade scores affect the following:
 - Scores by school size
 
     -  Thomas High School falls into the medium size school category.  The Average Math and Reading Scores did not change at all for the Medium Category.  However, the Passing Math, Passing Reading, and Overall Passing Percentages decreased.
+<img src = "https://github.com/jennfrbrown/School_District_Analysis/blob/master/Images%20for%20ReadMe/Spending%20Ranges.png" >
 
 - Scores by school type
     - Thomas High School is a charter school  The Average Math and Reading Scores for Chater Schools were unaffected.  However, the Passing Math, Passing Reading, and Overall Passing Percentages decreased.
