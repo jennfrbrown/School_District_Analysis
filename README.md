@@ -58,6 +58,7 @@ How does replacing the ninth-grade scores affect the following:
 ## Summary: 
 
 Four of the main changes in the reports once the Thomas High School 9th grade math and reading data were replaced by NaNs are:
-1. The overall passing percentage decreased from 65% to 64%.
+1. The overall passing percentage decreased from 65% to 64%.  This dropped them from the second ranked school to the 8th ranked school and dropped them from the top five list.
 2. The budget information didn't change, but the scores did because the 9th graders were excluded from the analysis.
-3. The scores by school type decreased in the Charter school type.
+3. The average math and reading scores were dropped slightly at the district level, but drastically at the shcool and grade level after the change.
+4. There was a drop in percentage of students passing math, percentage of students passing reading, and overall passing percentage for the $630-$644 spending range.
